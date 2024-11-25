@@ -12,3 +12,19 @@ body{
      margin-bottom: 80px;
      display: flex;
      justify-content: center; g
+
+     .chamada
+        { background: black(223, 155,0.623); 
+        margin-top: 80px; 
+        margin-bottom: 80px; 
+     display: flex; 
+     justify-content: center; } 
+    
+    
+     .chamada-texto
+       { margin-right: 5%; } 
+
+       h1{ font-size: 34px; } 
+       
+       .categoria
+       { background-color: black; }
